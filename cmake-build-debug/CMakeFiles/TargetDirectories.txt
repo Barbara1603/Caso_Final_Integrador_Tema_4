@@ -1,0 +1,14 @@
+C:/Users/barba/Documents/GitHub/Caso_Final_Integrador_Tema_4/cmake-build-debug/CMakeFiles/Caso_Final_Integrador_Tema_4.dir
+C:/Users/barba/Documents/GitHub/Caso_Final_Integrador_Tema_4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/barba/Documents/GitHub/Caso_Final_Integrador_Tema_4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/barba/Documents/GitHub/Caso_Final_Integrador_Tema_4/cmake-build-debug/CMakeFiles/list_install_components.dir
+C:/Users/barba/Documents/GitHub/Caso_Final_Integrador_Tema_4/cmake-build-debug/CMakeFiles/install.dir
+C:/Users/barba/Documents/GitHub/Caso_Final_Integrador_Tema_4/cmake-build-debug/CMakeFiles/install/local.dir
+C:/Users/barba/Documents/GitHub/Caso_Final_Integrador_Tema_4/cmake-build-debug/CMakeFiles/install/strip.dir
+C:/Users/barba/Documents/GitHub/Caso_Final_Integrador_Tema_4/cmake-build-debug/_deps/json11-build/CMakeFiles/json11.dir
+C:/Users/barba/Documents/GitHub/Caso_Final_Integrador_Tema_4/cmake-build-debug/_deps/json11-build/CMakeFiles/edit_cache.dir
+C:/Users/barba/Documents/GitHub/Caso_Final_Integrador_Tema_4/cmake-build-debug/_deps/json11-build/CMakeFiles/rebuild_cache.dir
+C:/Users/barba/Documents/GitHub/Caso_Final_Integrador_Tema_4/cmake-build-debug/_deps/json11-build/CMakeFiles/list_install_components.dir
+C:/Users/barba/Documents/GitHub/Caso_Final_Integrador_Tema_4/cmake-build-debug/_deps/json11-build/CMakeFiles/install.dir
+C:/Users/barba/Documents/GitHub/Caso_Final_Integrador_Tema_4/cmake-build-debug/_deps/json11-build/CMakeFiles/install/local.dir
+C:/Users/barba/Documents/GitHub/Caso_Final_Integrador_Tema_4/cmake-build-debug/_deps/json11-build/CMakeFiles/install/strip.dir

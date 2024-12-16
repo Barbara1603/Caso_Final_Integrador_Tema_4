@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/barba/Documents/GitHub/Caso_Final_Integrador_Tema_4/cmake-build-debug/_deps/json11-subbuild/CMakeFiles/json11-populate"
+		},
+		{
+			"file" : "C:/Users/barba/Documents/GitHub/Caso_Final_Integrador_Tema_4/cmake-build-debug/_deps/json11-subbuild/CMakeFiles/json11-populate.rule"
+		},
+		{
+			"file" : "C:/Users/barba/Documents/GitHub/Caso_Final_Integrador_Tema_4/cmake-build-debug/_deps/json11-subbuild/CMakeFiles/json11-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/barba/Documents/GitHub/Caso_Final_Integrador_Tema_4/cmake-build-debug/_deps/json11-subbuild/json11-populate-prefix/src/json11-populate-stamp/json11-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/barba/Documents/GitHub/Caso_Final_Integrador_Tema_4/cmake-build-debug/_deps/json11-subbuild/json11-populate-prefix/src/json11-populate-stamp/json11-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/barba/Documents/GitHub/Caso_Final_Integrador_Tema_4/cmake-build-debug/_deps/json11-subbuild/json11-populate-prefix/src/json11-populate-stamp/json11-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/barba/Documents/GitHub/Caso_Final_Integrador_Tema_4/cmake-build-debug/_deps/json11-subbuild/json11-populate-prefix/src/json11-populate-stamp/json11-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/barba/Documents/GitHub/Caso_Final_Integrador_Tema_4/cmake-build-debug/_deps/json11-subbuild/json11-populate-prefix/src/json11-populate-stamp/json11-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/barba/Documents/GitHub/Caso_Final_Integrador_Tema_4/cmake-build-debug/_deps/json11-subbuild/json11-populate-prefix/src/json11-populate-stamp/json11-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/barba/Documents/GitHub/Caso_Final_Integrador_Tema_4/cmake-build-debug/_deps/json11-subbuild/json11-populate-prefix/src/json11-populate-stamp/json11-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/barba/Documents/GitHub/Caso_Final_Integrador_Tema_4/cmake-build-debug/_deps/json11-subbuild/json11-populate-prefix/src/json11-populate-stamp/json11-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"json11-populate"
+		],
+		"name" : "json11-populate"
+	}
+}
